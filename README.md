@@ -1,6 +1,4 @@
-<center>
-# ReCratify Machine Learning 
-</center>
+<h1 align="center">ReCratify Machine Learning</h1>
 This is the documentation for the ReCratify Machine Learning Model. It is a part of the Capstone Project "ReCratify" by C241-PS077 Bangkit Academy 2024 Batch 1.
 
 ```markdown
