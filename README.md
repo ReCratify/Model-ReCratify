@@ -3,14 +3,14 @@ This is the documentation for the ReCratify Machine Learning Model. It is a part
 
 ### Tech We Use
 
-`markdown
+``markdown
 
 - Numpy (Scientific computing library)
 - TensorFlow (Machine learning library)
 - Matplotlib (Plotting library)
 - Pandas (Data manipulation and analysis library)
 - Seaborn (Statistical data visualization library)
-  `
+  ``
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ This is the documentation for the ReCratify Machine Learning Model. It is a part
 
 #### Steps to create a ReCratify model:
 
-`markdown
+``markdown
 
 1. **Import Required Libraries:**
    Import the necessary libraries for the machine learning model.
@@ -55,4 +55,4 @@ This is the documentation for the ReCratify Machine Learning Model. It is a part
     Save the trained model in an h5 file for deployment purposes.
 14. **Validation using Pictures files on test set:**
     To validate the model by using pictures on test set to make predictions and check if the image file has been predicted correctly.
-    `
+    ``
