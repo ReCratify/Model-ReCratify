@@ -10,6 +10,7 @@ This is the documentation for the ReCratify Machine Learning Model. It is a part
 - **Matplotlib**: Plotting library
 - **Pandas**: Data manipulation and analysis library
 - **Seaborn**: Statistical data visualization library
+- **Sklearn**:Machine learning library for predictive data analysis
 
 ## Getting Started
 
